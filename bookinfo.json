@@ -1,8 +1,8 @@
 {
-    "langCode": "ko",
-    "series": "${cont_model} 제어기",
+    "langCode": "zh",
+    "series": "${cont_model} 控制器",
     "title": "산업안전보건기준에 관한 규칙",
     "publisher": "HD현대로보틱스",
-    "tocTitle": "목차",
+    "tocTitle": "目录",
     "tocTitleElements": "[ \"h1\", \"h2\" ]"
 }
